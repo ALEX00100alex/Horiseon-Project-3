@@ -4,32 +4,28 @@
     margin: 0;
 }
 
+/* Style features applied to the header of the website, including background color, header formatting and navigation links*/
 body {
     background-color: #d9dcd6;
 }
 
-p {
-    font-size: 16px;
-}
-
-.header {
+ body header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header h1 .seo {
+body header h1 .seo {
     color: #d9dcd6;
 }
 
-.header h1 {
+body header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-
-.header nav {
+body header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -38,29 +34,34 @@ p {
     list-style-type: none;
 }
 
-.header nav li {
+body header nav li {
     display: inline-block;
     margin-left: 25px;
 }
 
-a {
+body a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Imagine at the top of the website*/
 .hero {
-    height: 800px;
+    height: 1200px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
+/* Style features applied to the main body of the website*/
 
+main p {
+    font-size: 20px;
+}
 .content {
     width: 75%;
     display: inline-block;
-    margin-left: 20px;
+    margin-left: 40px;
 }
 
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
@@ -91,6 +92,7 @@ a {
     font-size: 36px;
 }
 
+/* Style features applied to the right-hand box (Lead Gen, Brand Awareness, Cost Management)*/
 
 .benefits {
     margin-right: 20px;
@@ -98,19 +100,21 @@ a {
     clear: both;
     float: right;
     width: 20%;
-    height: 100%;
+    height: 1000px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
 
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
+    margin-left: 10px;
     color: #ffffff;
 }
 
 .benefit-lead h3, .benefit-brand h3,.benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
+    font-size: 25px;
 }
 
  .benefit-lead img, .benefit-brand img, .benefit-cost img {
@@ -118,6 +122,8 @@ a {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/*Footer style elements*/
 
 .footer {
     padding: 30px;
