@@ -1,6 +1,6 @@
 # Horiseon Website
 
-**Welcome to the Horiseon company website**
+**Welcome to the Horiseon company website!**
 
 ## Background 
 
@@ -15,17 +15,20 @@ This website is built with HTML and CSS code. I've used semantic tags to enhance
 
 ## Screenshots 
 
+![Website Image](/C:\Users\micha\code\Horiseon-Project-3\assets\images\Horiseon-website-image.png?raw=true "Horiseon Website")
+
 ## Changes Made
 
 The following changes were made to the original website code:
 1. Fixed broken internal links
 2. Changed to semantic HTML tagging
-3. Consolidated and minimized CSS code 
+3. Added alt tags to images
+4. Consolidated and minimized CSS code 
 
-# Contribute
+## Contribute
 
 Want to contribute? You can find the github repo here: 
 
-# Credits
+## Credits
 
 Thanks goes to the U of U coding camp!
