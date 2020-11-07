@@ -15,7 +15,7 @@ This website is built with HTML and CSS code. I've used semantic tags to enhance
 
 ## Screenshots 
 
-![alt text](C:\Users\micha\code\Horiseon-Project-3\assets\images\Horiseon-website-image.png "Horiseon Website")
+![Website image](assets\images\Horiseon-website-image.png "Horiseon Website")
 
 ## Changes Made
 
@@ -27,7 +27,7 @@ The following changes were made to the original website code:
 
 ## Contribute
 
-Want to contribute? You can find the github repo here: 
+Want to contribute? You can find the github repo here: https://alex00100alex.github.io/Horiseon-Project-3/ 
 
 ## Credits
 
