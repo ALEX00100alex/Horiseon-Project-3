@@ -4,7 +4,7 @@
 
 ## Background 
 
-This is a company website for Horiseon, a marketing company which does the following:
+This is a website for Horiseon, a marketing company which does the following:
 1. Search Engine Optimization
 2. Online Reputation Management
 3. Social Media Marketing
@@ -27,8 +27,13 @@ The following changes were made to the original website code:
 
 ## Contribute
 
-Want to contribute? You can find the github repo here: https://alex00100alex.github.io/Horiseon-Project-3/ 
+Want to contribute? You can find the github repo here: https://github.com/ALEX00100alex/Horiseon-Project-3 
+
+## Links
+
+Webiste Link: file:///C:/Users/micha/code/Horiseon-Project-3/index.html  
+Github Website link: https://alex00100alex.github.io/Horiseon-Project-3/ 
 
 ## Credits
 
-Thanks goes to the U of U coding camp!
+Thanks goes to the UofO coding camp!
