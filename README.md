@@ -31,7 +31,6 @@ Want to contribute? You can find the github repo here: https://github.com/ALEX00
 
 ## Links
 
-Webiste Link: file:///C:/Users/micha/code/Horiseon-Project-3/index.html  
 Github Website link: https://alex00100alex.github.io/Horiseon-Project-3/ 
 
 ## Credits
