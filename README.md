@@ -1,6 +1,7 @@
 # Horiseon Website
 
 **Welcome to the Horiseon company website!**
+**Author: Michael Alexander** 
 
 ## Background 
 
@@ -15,7 +16,7 @@ This website is built with HTML and CSS code. I've used semantic tags to enhance
 
 ## Screenshots 
 
-![Website Image](/C:\Users\micha\code\Horiseon-Project-3\assets\images\Horiseon-website-image.png?raw=true "Horiseon Website")
+[![Website Image](/C:\Users\micha\code\Horiseon-Project-3\assets\images\Horiseon-website-image.png "Horiseon Website")]
 
 ## Changes Made
 
